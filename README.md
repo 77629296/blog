@@ -2,11 +2,10 @@
 > 日常踩过的坑
 > 备忘录
 
-![扫码_搜索联合传播样式-白色版](%E4%BA%8C%E7%BB%B4%E7%A0%81/%E6%90%9C%E4%B8%80%E6%90%9C/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png)
+![扫码_搜索联合传播样式-白色版](https://tva1.sinaimg.cn/large/007S8ZIlly1ge6wvxn2jjj31bi0hc0vk.jpg)
 
-![扫码_搜索联合传播样式-标准色版](%E4%BA%8C%E7%BB%B4%E7%A0%81/%E6%90%9C%E4%B8%80%E6%90%9C/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
+![扫码_搜索联合传播样式-标准色版](https://tva1.sinaimg.cn/large/007S8ZIlly1ge6ww8j8btj31bi0hcn07.jpg)
 
-![搜索框传播样式-白色版](%E4%BA%8C%E7%BB%B4%E7%A0%81/%E6%90%9C%E4%B8%80%E6%90%9C/%E6%90%9C%E7%B4%A2%E6%A1%86%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png)
+![搜索框传播样式-白色版](https://tva1.sinaimg.cn/large/007S8ZIlly1ge6wwcirptj31ks0903zu.jpg)
 
 ![搜索框传播样式-标准色版](https://tva1.sinaimg.cn/large/007S8ZIlly1ge6woxged6j31ks090mym.jpg)
-
